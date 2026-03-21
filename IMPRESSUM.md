@@ -11,7 +11,8 @@ Deutschland
 
 ## Kontakt
 
-- LinkedIn: [Lukas Geiger](https://www.linkedin.com/in/lukasgeiger/)
+- E-Mail: lukasgeiger@gmail.com
+- LinkedIn: [Lukas Geiger](https://www.linkedin.com/in/lukas-geiger-a68848213/)
 - ORCID: [0009-0005-7296-1534](https://orcid.org/0009-0005-7296-1534)
 
 ## Inhaltlich verantwortlich gem. §18 Abs. 2 MStV
