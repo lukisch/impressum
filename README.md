@@ -8,7 +8,8 @@ Personal legal notice repository for Lukas Geiger, maintained as the GitHub sour
 |---|---|
 | [IMPRESSUM.md](IMPRESSUM.md) | German legal notice according to § 5 DDG and § 18 Abs. 2 MStV |
 | [llms.txt](llms.txt) | Machine-readable context for crawlers and LLM-assisted navigation |
-| [LICENSE](LICENSE) | MIT license for repository material |
+| [LICENSE](LICENSE) | MIT license for the repository material |
+| [CHANGELOG.md](CHANGELOG.md) | Human-readable maintenance history |
 
 Canonical public web version: [um-bruch.org/impressum](https://um-bruch.org/impressum/)
 
@@ -25,10 +26,10 @@ Use this repository as a stable reference when linking from:
 - public profile pages that require a German legal notice
 - crawler or LLM context files that need a canonical legal-contact target
 
-## Haftung / Liability
+## Lizenz und Haftung / License and Liability
 
-Dieses Projekt ist eine **unentgeltliche Open-Source-Schenkung** im Sinne der §§ 516 ff. BGB. Die Haftung des Urhebers ist gemäß **§ 521 BGB** auf **Vorsatz und grobe Fahrlässigkeit** beschränkt. Ergänzend gelten die Haftungsausschlüsse aus GPL-3.0 / MIT / Apache-2.0 §§ 15-16, je nach gewählter Lizenz.
+Die Dateien in diesem Repository stehen unter der [MIT-Lizenz](LICENSE). Davon getrennte Publikationen, Webseiten oder verlinkte Forschungsartefakte können eigene Lizenzangaben enthalten.
 
 Nutzung auf eigenes Risiko. Keine Wartungszusage, keine Verfügbarkeitsgarantie, keine Gewähr für Fehlerfreiheit oder Eignung für einen bestimmten Zweck.
 
-This project is an unpaid open-source donation. Liability is limited to intent and gross negligence (§ 521 German Civil Code). Use at your own risk. No warranty, no maintenance guarantee, no fitness-for-purpose assumed.
+This repository's files are MIT-licensed. Separate publications, web pages or linked research artifacts may carry their own stated licenses. Use at your own risk. No warranty, no maintenance guarantee, no fitness-for-purpose assumed.

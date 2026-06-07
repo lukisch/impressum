@@ -25,4 +25,4 @@ Die Inhalte meiner LinkedIn-Beiträge und Publikationen wurden sorgfältig erste
 
 ## Urheberrecht
 
-Sofern nicht anders angegeben, stehen meine Publikationen unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Die Dateien in diesem Repository stehen unter der [MIT-Lizenz](LICENSE). Davon getrennte wissenschaftliche Publikationen und öffentliche Texte können eigene Lizenzangaben enthalten; sofern dort nicht anders angegeben, stehen meine Publikationen unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

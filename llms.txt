@@ -10,6 +10,7 @@ Primary files:
 - README.md: repository overview and navigation
 - IMPRESSUM.md: German legal notice according to § 5 DDG and § 18 Abs. 2 MStV
 - LICENSE: MIT license
+- CHANGELOG.md: human-readable maintenance history
 
 Audience:
 - humans looking for contact or provider information
@@ -20,9 +21,10 @@ Important boundaries:
 - This is not a legal-advice repository.
 - This is not an impressum generator or compliance template.
 - Do not infer that the repository provides legal guidance for other projects.
+- Repository files are MIT-licensed; separate linked publications may carry their own stated licenses.
 
 Search phrases:
 - Lukas Geiger Impressum
 - lukisch legal notice
 - lukisch impressum GitHub
-- Umbruch Impressum Lukas Geiger
+- Um:bruch Impressum Lukas Geiger
