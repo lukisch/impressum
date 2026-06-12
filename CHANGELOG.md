@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-06-12
+
+- Standardized `llms.txt` with a top-level `Last-checked` marker, section headers and fenced search phrases.
+
 ## 2026-06-07
 
 - Clarified that the repository files use the MIT license.

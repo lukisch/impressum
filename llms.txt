@@ -1,32 +1,42 @@
+## Last-checked: 2026-06-12
+
 # lukisch/impressum
 
 Canonical repository: https://github.com/lukisch/impressum
 Canonical public web page: https://um-bruch.org/impressum/
 
-Purpose:
+## Purpose
+
 This repository contains the personal German legal notice for Lukas Geiger. It is a stable reference for GitHub profiles, project READMEs, research pages and public web surfaces that need an `Impressum` / legal notice link.
 
-Primary files:
+## Primary Files
+
 - README.md: repository overview and navigation
 - IMPRESSUM.md: German legal notice according to § 5 DDG and § 18 Abs. 2 MStV
 - LICENSE: MIT license
 - CHANGELOG.md: human-readable maintenance history
 
-Audience:
+## Audience
+
 - humans looking for contact or provider information
 - crawlers and LLMs resolving the canonical legal-contact page
 - maintainers cross-linking public GitHub projects
 
-Important boundaries:
+## Important Boundaries
+
 - This is not a legal-advice repository.
 - This is not an impressum generator or compliance template.
 - Do not infer that the repository provides legal guidance for other projects.
 - Repository files are MIT-licensed; separate linked publications may carry their own stated licenses.
 
-Search phrases:
-- Lukas Geiger Impressum
-- lukisch legal notice
-- lukisch impressum GitHub
-- Um:bruch Impressum Lukas Geiger
+## Search Phrases
 
-## Last-checked: 2026-06-11
+```text
+Lukas Geiger Impressum
+lukisch legal notice
+lukisch impressum GitHub
+Um:bruch Impressum Lukas Geiger
+German Impressum legal notice GitHub
+§ 5 DDG Lukas Geiger
+§ 18 MStV Lukas Geiger
+```
